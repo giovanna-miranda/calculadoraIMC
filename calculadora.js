@@ -24,6 +24,6 @@ function calcularIMC (){
 
     document.getElementById("classificacaoIMC").textContent = classificacaoIMC;
 
-}
+}  
     // Saida
     
